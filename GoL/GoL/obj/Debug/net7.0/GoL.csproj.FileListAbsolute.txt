@@ -1,0 +1,15 @@
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/bin/Debug/net7.0/GoL
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/bin/Debug/net7.0/GoL.deps.json
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/bin/Debug/net7.0/GoL.runtimeconfig.json
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/bin/Debug/net7.0/GoL.dll
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/bin/Debug/net7.0/GoL.pdb
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/obj/Debug/net7.0/GoL.csproj.AssemblyReference.cache
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/obj/Debug/net7.0/GoL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/obj/Debug/net7.0/GoL.AssemblyInfoInputs.cache
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/obj/Debug/net7.0/GoL.AssemblyInfo.cs
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/obj/Debug/net7.0/GoL.csproj.CoreCompileInputs.cache
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/obj/Debug/net7.0/GoL.dll
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/obj/Debug/net7.0/refint/GoL.dll
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/obj/Debug/net7.0/GoL.pdb
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/obj/Debug/net7.0/GoL.genruntimeconfig.cache
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/GoL/GoL/obj/Debug/net7.0/ref/GoL.dll
